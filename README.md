@@ -41,6 +41,17 @@ Destination Image
 
 ![Destination Image](https://github.com/guptag911/Face-Morphing/blob/master/Clinton.jpg)
 
+### Triangulated Images
+Source Triangulated Image
+
+![Triangulated Image Source](https://github.com/guptag911/Face-Morphing/blob/master/Frames/Triangulated_Image1.jpg)
+
+Destination Triangulated Image
+
+![Triangulated Image Destination](https://github.com/guptag911/Face-Morphing/blob/master/Frames/Triangulated_Image2.jpg)
+
+
+### Result
 Final Morphed Image
 
 ![Morphed Image](https://github.com/guptag911/Face-Morphing/blob/master/Final_Morphed.jpg)
