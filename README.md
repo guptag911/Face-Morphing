@@ -34,11 +34,14 @@ Check the following video to see what the program does!
 
 ### Input Images
 Source Image
+
 ![Source Image](https://github.com/guptag911/Face-Morphing/blob/master/Bush.jpg)
 
 Destination Image
+
 ![Destination Image](https://github.com/guptag911/Face-Morphing/blob/master/Clinton.jpg)
 
 Final Morphed Image
+
 ![Morphed Image](https://github.com/guptag911/Face-Morphing/blob/master/Final_Morphed.jpg)
 
