@@ -29,6 +29,6 @@ used to do the region-wise mapping.
 9. Images will be saved automatically in the working directory.
 
 ### Program in Action(Video Demonstration!)
-Check the following video to see how  the software performs!
+Check the following video to see what the program does!
 [Watch the video here](https://youtu.be/fsQUcMbcFIs)
 
